@@ -37,9 +37,20 @@ h1, h2 {
     line-height: 75px;
 }
 
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+/* #menu li kod är inte rätt... allt ska centreras */
+
 #menu li {
-    text-align: center;
+    display: table;
+    vertical-align: center;
     list-style-type: none;
+    margin-right: 30px;
+    
 }
 
 #menu a {
