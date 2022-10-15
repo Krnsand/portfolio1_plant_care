@@ -116,7 +116,7 @@ hr {
 /* care station */
 
 #care {
-    text-align: center;
+    height: 500px;
 }
 
 #monstera-care {
@@ -135,10 +135,31 @@ hr {
     margin-top: 20px;
 }
 
+.care-image2 {
+    height: 500px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+
+.care-image3 {
+    height: 500px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+
 p {
     margin-top: 20px;
     text-align: center;
     width: 50%;
+    font-size: 130%;
 }
 
 
