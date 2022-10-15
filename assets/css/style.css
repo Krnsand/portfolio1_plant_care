@@ -17,7 +17,7 @@ h1, h2 {
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: 252525;
+    color: #252525;
 }
 
 #logo {
@@ -65,20 +65,6 @@ hr {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* featured plants */
-
-#welcome-plants {
-    height: 500px;
-    width:50%;
-    background-image: url('../images/plants.jpg');
-    
-}
-
-#featured {
-    text-align: center;
-    margin: 20px;
-}
-
 #cover-text {
     font-size: 100%;
     font-family: "Source Sans Pro", sans-serif;
@@ -94,7 +80,38 @@ hr {
 
     background-color: rgba(241, 109, 107, .7);
 
-    bottom: 250px;
+    bottom: 240px;
     right: 100px;
 
     position: absolute;
+}
+
+
+
+/* featured plants */
+
+#my-plants {
+    height: 200px;
+}
+
+#welcome-plants {
+    height: 500px;
+    width: 50%;
+    background-image: url('../images/monstera_adasonii.jpg');
+    margin: 20px 0 20px 0;
+}
+
+#featured {
+    text-align: center;
+    margin: 5px;
+    font-size: 180%;
+}
+
+#left-about {
+    background-image: url('../images/coleus1.jpg');
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: left;
+}
+
+
