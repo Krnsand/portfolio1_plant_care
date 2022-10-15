@@ -32,6 +32,7 @@ h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 5px;
+    text-align: center;
 }
 
 #menu,
@@ -99,9 +100,8 @@ hr {
 }
 
 #welcome-plants {
-    height: 500px;
+    height: auto;
     width: 50%;
-    background-image: url('../images/monstera_adasonii.jpg');
     margin: 20px 0 20px 0;
 }
 
@@ -130,9 +130,9 @@ hr {
     margin-top: 20px;
 }
 
-.care-image1 {
-    height: 500px;
-    width: 50%;
+.care-image {
+    width: 100%;
+    max-width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -140,24 +140,12 @@ hr {
     margin-top: 20px;
 }
 
-.care-image2 {
-    height: 500px;
-    width: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    background-repeat: no-repeat;
-    margin-top: 20px;
+.care-image img {
+    max-width: 100%;
 }
 
-.care-image3 {
-    height: 500px;
-    width: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    background-repeat: no-repeat;
-    margin-top: 20px;
+.care-image p {
+    width: 100%;
 }
 
 p {
@@ -177,7 +165,7 @@ p {
     font-size: 180%;
     text-align: center;
     margin-top: 20px;
-
+}
 
 
 /* footer */
