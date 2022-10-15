@@ -7,13 +7,13 @@
 }
 
 body {
-    font-family: "Playfair Display SC", sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     font-weight: 400;
     color: #3a3a3a;
 }
 
 h1, h2 {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: "Playfair Display SC", sans-serif;
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -46,11 +46,10 @@ hr {
 /* #menu li kod är inte rätt... allt ska centreras */
 
 #menu li {
-    display: table;
-    vertical-align: center;
     list-style-type: none;
-    margin-right: 30px;
-    
+    display: inline-block;
+    position: relative;
+    text-align: center;
 }
 
 #menu a {
@@ -68,6 +67,34 @@ hr {
 
 /* featured plants */
 
+#welcome-plants {
+    height: 500px;
+    width:50%;
+    background-image: url('../images/plants.jpg');
+    
+}
+
 #featured {
     text-align: center;
+    margin: 20px;
 }
+
+#cover-text {
+    font-size: 100%;
+    font-family: "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+
+    width: 500px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 250px;
+    right: 100px;
+
+    position: absolute;
