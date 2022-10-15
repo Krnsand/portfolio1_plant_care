@@ -47,9 +47,8 @@ hr {
 
 #menu li {
     list-style-type: none;
-    display: inline-block;
-    position: relative;
-    text-align: center;
+    display: inline-block
+    
 }
 
 #menu a {
@@ -114,4 +113,49 @@ hr {
     background-position: left;
 }
 
+/* care station */
 
+#care {
+    text-align: center;
+}
+
+#monstera-care {
+    font-size: 180%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.care-image1 {
+    height: 500px;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+
+#care > p {
+    margin-top: 20px;
+}
+
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
