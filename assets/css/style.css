@@ -88,40 +88,27 @@ hr {
     margin-top: 20px
 }
 
-
-
-/* featured plants */
-
-
 #welcome-plants {
     height: auto;
     width: 50%;
     margin: 20px 0 20px 0;
 }
 
+/* featured plants */
+
 #featured {
     text-align: center;
     margin: 5px;
+    font-size: 220%;
+}
+
+#featured-plants {
     font-size: 180%;
-}
-
-#left-about {
-    background-repeat: no-repeat;
-    background-size: 30%;
-    background-position: left;
-}
-
-#left-about h2 {
-    display: inline-block;
-    right: auto;
-}
-
-#right-about {
-    background-repeat: no-repeat;
-    background-size: 30%;
-    background-position: right;
-
-}
+    text-align: center;
+    margin-top: 20px;
+ }
+  
+ 
 
 /* care station */
 
@@ -139,22 +126,29 @@ hr {
     margin-right: auto;
     background-repeat: no-repeat;
     margin-top: 20px;
-}
-
-.care-image img {
+ }
+  
+ .care-image img {
     max-width: 100%;
-}
-
-.care-image p {
+ }
+  
+ .care-image p {
     width: 100%;
-}
-
-p {
+ }
+  
+ #featured-plants p {
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 100%;
+ }
+ 
+ p {
     margin-top: 20px;
     text-align: center;
     width: 50%;
     font-size: 130%;
-}
+ }
 
 #variegata-care {
     font-size: 160%;
