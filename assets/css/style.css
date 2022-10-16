@@ -66,22 +66,18 @@ hr {
     border-bottom: 1px solid #3a3a3a;
 }
 
-#cover-text {
+#box {
     font-size: 100%;
     font-family: "Source Sans Pro", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    width: 500px;
-    height: 200px;
+    height: auto;
+    width: 50%;
+    margin: 20px 0 20px 0;
 
-    padding-top: 40px;
-    padding-left: 10px;
-
-    bottom: 240px;
-    right: 100px;
-
-    position: absolute;
+    float: right;
+    vertical-align: center;
 }
 
 #cover-text h3 {
@@ -107,7 +103,15 @@ hr {
     text-align: center;
     margin-top: 20px;
  }
-  
+
+ #featured-plants p {
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    font-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+ } 
  
 
 /* care station */
@@ -136,13 +140,6 @@ hr {
     width: 100%;
  }
   
- #featured-plants p {
-    margin-top: 20px;
-    text-align: center;
-    width: 100%;
-    font-size: 100%;
- }
- 
  p {
     margin-top: 20px;
     text-align: center;
@@ -208,7 +205,7 @@ hr {
 }
 
 .text-input:hover {
-    border-color: #2A652A;
+    border-color: #98f598;
 }
 
 .join-button {
@@ -217,14 +214,14 @@ hr {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #2A652A;
+    background-color: #083c08;
     color: #fafafa;
     display: block;
 }
 
 .join-button:hover {
     background-color: #fafafa;
-    color: #2A652A;
+    color: #083c08;
 }
 
 
@@ -285,9 +282,5 @@ footer {
         clear: both;
         height: 150px;
         padding: 0;
-    }
-
-    hr {
-        display: none;
     }
 }  */
