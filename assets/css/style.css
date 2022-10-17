@@ -283,6 +283,13 @@ p {
     color: #083c08;
 }
 
+.success {
+    font-family: "Playfair Display SC", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #252525;
+}
 
 /* footer */
 
