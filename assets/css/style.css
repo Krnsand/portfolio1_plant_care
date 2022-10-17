@@ -43,7 +43,7 @@ h2 {
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
-    margin: 5px 0;
+    margin: 0;
 }
 
 
@@ -94,7 +94,7 @@ hr {
 
 #featured {
     text-align: center;
-    margin: 5px;
+    margin: 10px;
     font-size: 220%;
 }
 
@@ -167,7 +167,7 @@ p {
     background: url('../images/form_background.jpg');
     background-size: cover;
     background-position: center;
-    height: 1000px;
+    height: 900px;
     padding-top: 150px;
 }
 
