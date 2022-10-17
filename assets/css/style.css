@@ -102,17 +102,17 @@ hr {
     font-size: 180%;
     text-align: center;
     margin-top: 20px;
- }
+}
 
- #featured-plants p {
+#featured-plants p {
     margin-top: 20px;
     text-align: center;
     width: 100%;
     font-size: 100%;
     margin-left: auto;
     margin-right: auto;
- } 
- 
+}
+
 
 /* care station */
 
@@ -130,22 +130,22 @@ hr {
     margin-right: auto;
     background-repeat: no-repeat;
     margin-top: 20px;
- }
-  
- .care-image img {
+}
+
+.care-image img {
     max-width: 100%;
- }
-  
- .care-image p {
+}
+
+.care-image p {
     width: 100%;
- }
-  
- p {
+}
+
+p {
     margin-top: 20px;
     text-align: center;
     width: 50%;
     font-size: 130%;
- }
+}
 
 #variegata-care {
     font-size: 160%;
@@ -176,8 +176,7 @@ hr {
     padding: 30px;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width:400px;
-    position: relative;
+    max-width: 400px;
 }
 
 .signup-form>h2 {
@@ -288,5 +287,4 @@ footer {
 
 /* responsivness? */
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" 
-integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"crossorigin="anonymous">
