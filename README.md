@@ -2,7 +2,7 @@
 
 Plant Care is a website that is intended to help people take care of their plants in a what that is easy and accessable to everyone. With pictures and informative text I want people to learn from my mistakes and become more comfortable in decorating a space with their beautifu plants. 
 
-![Responsice Mockup]
+![Responsive Mockup]
 
 ## Features 
 
@@ -42,24 +42,20 @@ In this section, you should go over the different parts of your project, and des
 
 - __Care Station__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The care station will show the user the differents plants again with images in a clean and easy to read layout. 
+  - This section is valuable to the user as it is here they will actually get to learn what type of care the specific plants require to thrive the most. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Care Station](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to the Newsletter the website offers in order to get regular tips and tricks regarding their plants as well as inspiration for what to do with their plants. For example, how to decorate a room with plants of what types of plants can work well in a darker corner of the room. The user will be able to choose if they want a newsletter to their inbox once a week or once a month. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- I would like to add more plants in the future as well as video tutourials on different plant related things. 
 
 ## Testing 
 
