@@ -116,7 +116,8 @@ hr {
     margin: 10px;
     font-size: 220%;
 }
-/* FIX THIS
+
+/* FIX THIS */
 
 .title-left {
     margin-top: 20px;
@@ -127,15 +128,6 @@ hr {
 .title-right {
     margin-top: 20px;
     margin-bottom: 10px;
-    display: flex;
-}
-
-
-.featured-plants-left {
-    width: 100%;
-    max-width: 500px;
-    background-repeat: no-repeat;
-    margin-top: 20px;
     display: flex;
 }
 
@@ -165,7 +157,7 @@ hr {
     max-width: 100%;
 }
 
-.featured-plants p {
+/* .featured-plants p {
     width: 100%;
 }
 
@@ -175,7 +167,11 @@ hr {
 
 .featured-plants h3, .featured-plants p {
     padding: 0 70px;
-} */
+}  */
+
+#my-plants img:hover {
+    border: 2px solid #98f598;
+}
 
 /* care station */
 
