@@ -79,16 +79,13 @@ hr {
     margin: 20px 0 20px 0;
 }
 
-#cover-text h3 {
-    margin-top: 20px
-}
-
 #welcome-plants {
     display: block;
     height: auto;
     width: 50%;
     margin: 0;
 }
+
 .home-hero {
     display: flex;
     align-items: center;
@@ -119,7 +116,48 @@ hr {
 
 /* FIX THIS */
 
+#my-plants {
+    display: block;
+    height: auto;
+    width: 100%;
+    margin: 0;
+}
+
 .title-left {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 1.3rem;
+}
+
+.img-left {
+    display: flex;
+    align-items: center;
+    padding: 5px 50px 50px 20px;
+}
+
+.text-right {
+    text-align: center;
+    height: auto;
+    width: 50%;
+    padding-right: auto;
+    padding-left: auto;
+    display: flex;
+}
+
+.title-right {
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 1.3rem;
+}
+
+.img-right {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px 50px 50px 20px;
+}
+
+
+/* .title-left {
     margin-top: 20px;
     margin-bottom: 10px;
     display: flex;
@@ -155,7 +193,7 @@ hr {
 
 .featured-plants img {
     max-width: 100%;
-}
+} */
 
 /* .featured-plants p {
     width: 100%;
@@ -226,31 +264,31 @@ p {
     background: url('../images/form_background.jpg');
     background-size: cover;
     background-position: center;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding-top: 9.4rem;
+    padding-bottom: 9.4rem;
 }
 
 .signup-form {
     margin-left: auto;
     margin-right: auto;
-    padding: 30px;
+    padding: 1.9rem;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
+    max-width: 25rem;
 }
 
 .signup-form>h2 {
     color: #fafafa;
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 10px;
+    margin-bottom: .6rem;
 }
 
 .signup-form>h4 {
     color: #fafafa;
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 1.3rem;
 }
 
 .text-input {
