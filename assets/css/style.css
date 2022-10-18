@@ -103,6 +103,12 @@ hr {
     #welcome-plants {
         width: 100%;
     }
+    .title-left {
+        align-items: center;
+        width: 100%;
+        display: block;
+        flex: column;
+    }
 }
 
 
@@ -110,7 +116,7 @@ hr {
 
 #featured {
     text-align: center;
-    margin: 10px;
+    margin: 2rem;
     font-size: 220%;
 }
 
@@ -127,85 +133,51 @@ hr {
     display: flex;
     justify-content: flex-start;
     padding-left: 1.3rem;
+    font-size: 110%;
+}
+
+.title-left h3 {
+    font-family: "Playfair Display SC", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: .3rem;
+    color: #252525;
 }
 
 .img-left {
     display: flex;
     align-items: center;
-    padding: 5px 50px 50px 20px;
+    padding: 1.3rem;
 }
 
 .text-right {
     text-align: center;
     height: auto;
-    width: 50%;
-    padding-right: auto;
-    padding-left: auto;
-    display: flex;
+    width: 100%;
 }
 
 .title-right {
     display: flex;
     justify-content: flex-end;
-    padding-left: 1.3rem;
+    padding-right: 1.3rem;
+    font-size: 110%;
+}
+
+.title-right h3 {
+    font-family: "Playfair Display SC", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: .3rem;
+    color: #252525;
 }
 
 .img-right {
     display: flex;
     justify-content: flex-end;
-    padding: 5px 50px 50px 20px;
+    padding: 1.3rem;
 }
-
-
-/* .title-left {
-    margin-top: 20px;
-    margin-bottom: 10px;
-    display: flex;
-}
-
-.title-right {
-    margin-top: 20px;
-    margin-bottom: 10px;
-    display: flex;
-}
-
-.featured-plants-right {
-    width: 100%;
-    max-width: 500px;
-    background-repeat: no-repeat;
-    margin-top: 20px;
-    display: flex;
-}
-
-.text-left {
-    display: flex;
-    align-items: left;
-    flex: row;
-    text-align: center;
-}
-
-.text-right {
-    display: flex;
-    align-items: right;
-    flex: row;
-    text-align: center;
-} 
-
-.featured-plants img {
-    max-width: 100%;
-} */
-
-/* .featured-plants p {
-    width: 100%;
-}
-
-.featured-plants {
-    max-width: 640px;
-}
-
-.featured-plants h3, .featured-plants p {
-    padding: 0 70px;
-}  */
 
 #my-plants img:hover {
     border: 2px solid #98f598;
