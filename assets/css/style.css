@@ -68,6 +68,10 @@ hr {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 #box {
     font-size: 100%;
     font-family: "Source Sans Pro", sans-serif;
@@ -103,13 +107,24 @@ hr {
     #welcome-plants {
         width: 100%;
     }
-    .title-left {
-        align-items: center;
-        width: 100%;
+}
+
+/* @media (min-width: 500px) {
+    #my-plants {
         display: block;
         flex: column;
     }
-}
+    .title-left, .title-right {
+        width: 100%;
+    }
+    .img-left, .img-right {
+        width: 100%;
+    }
+    .text-right, .text-left {
+        width: 100%;
+    }
+    
+} */
 
 
 /* featured plants */
@@ -127,6 +142,10 @@ hr {
     height: auto;
     width: 100%;
     margin: 0;
+}
+
+.card-left {
+    border: rgba(8, 60, 8, 0.6) solid .3rem;
 }
 
 .title-left {
@@ -149,6 +168,10 @@ hr {
     display: flex;
     align-items: center;
     padding: 1.3rem;
+}
+
+.card-right {
+    border: rgba(8, 60, 8, 0.6) solid .3rem;
 }
 
 .text-right {
@@ -191,6 +214,13 @@ hr {
     margin-top: 20px;
 }
 
+/* #care hr {
+    padding: .6rem;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+} */
+
 .care-image {
     width: 100%;
     max-width: 500px;
@@ -203,6 +233,7 @@ hr {
 
 .care-image img {
     max-width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .care-image p {
