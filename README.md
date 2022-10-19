@@ -49,13 +49,14 @@ In this section, you should go over the different parts of your project, and des
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to the Newsletter the website offers in order to get regular tips and tricks regarding their plants as well as inspiration for what to do with their plants. For example, how to decorate a room with plants of what types of plants can work well in a darker corner of the room. The user will be able to choose if they want a newsletter to their inbox once a week or once a month. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to the Newsletter the website offers in order to get regular tips and tricks regarding their plants as well as inspiration for what to do with their plants. For example, how to decorate a room with plants of what type of plants can work well in a darker corner of the room. The user will be able to choose if they want a newsletter to their inbox once a week or once a month. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 ### Features Left to Implement
 
-- I would like to add more plants in the future as well as video tutourials on different plant related things. 
+- I would like to add more plants in the future as well as video tutourials on different plant related things.
+- I would like to go more in depth on some parts of the care as some details require more work. 
 
 ## Testing 
 

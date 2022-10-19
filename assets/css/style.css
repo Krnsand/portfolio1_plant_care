@@ -93,13 +93,13 @@ hr {
 .home-hero {
     display: flex;
     align-items: center;
-    flex: row;
+    flex-direction: row;
 }
 
 @media (max-width: 500px) {
     .home-hero {
         display: block;
-        flex: column;
+        flex-direction: column;
     }
     #box {
         width: 100%;
@@ -212,6 +212,7 @@ hr {
     font-size: 180%;
     text-align: center;
     margin-top: 20px;
+    text-decoration: underline;
 }
 
 .care-hr {
@@ -246,19 +247,21 @@ p {
     margin-top: 20px;
     text-align: center;
     width: 50%;
-    font-size: 130%;
+    font-size: 120%;
 }
 
 #variegata-care {
     font-size: 160%;
     text-align: center;
     margin-top: 20px;
+    text-decoration: underline;
 }
 
 #coleus-care {
     font-size: 180%;
     text-align: center;
     margin-top: 20px;
+    text-decoration: underline;
 }
 
 
