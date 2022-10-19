@@ -130,20 +130,10 @@ hr {
 
 .card {
     display: flex;
-}
-
-.title-left {
-    padding-left: 1.3rem;
-    font-size: 110%;
-}
-
-.title-left h3 {
-    font-family: "Playfair Display SC", sans-serif;
-    font-weight: 300;
-    text-transform: uppercase;
-    text-decoration: underline;
-    letter-spacing: .3rem;
-    color: #252525;
+    background-color: rgba(8, 60, 8, 0.2);
+    border-radius: .7rem;
+    color: #000000;
+    margin: 1rem;
 }
 
 .card-img {
@@ -166,26 +156,13 @@ hr {
     width: 100%;
 }
 
-.title-right {
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 1.3rem;
-    font-size: 110%;
-}
-
-.title-right h3 {
+.card-text h3 {
     font-family: "Playfair Display SC", sans-serif;
     font-weight: 300;
     text-transform: uppercase;
     text-decoration: underline;
     letter-spacing: .3rem;
     color: #252525;
-}
-
-.img-right {
-    display: flex;
-    justify-content: flex-end;
-    padding: 1.3rem;
 }
 
 #my-plants img:hover {
@@ -257,6 +234,12 @@ p {
     text-align: center;
     margin-top: 20px;
     text-decoration: underline;
+}
+
+@media (max-width: 500px) {
+    .care-hr {
+        max-width: 300px;
+    }
 }
 
 
