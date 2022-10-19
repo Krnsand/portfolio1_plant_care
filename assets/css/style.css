@@ -214,16 +214,18 @@ hr {
     margin-top: 20px;
 }
 
-/* #care hr {
-    padding: .6rem;
-    max-width: 500px;
+.care-hr {
+    padding-top: 1.5rem;
+    max-width: 700px;
     display: flex;
-    justify-content: center;
-} */
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .care-image {
     width: 100%;
-    max-width: 500px;
+    max-width: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -330,6 +332,27 @@ p {
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #252525;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 9.4rem;
+    padding-bottom: 1.5rem;
+}
+
+.success-h2 {
+    font-family: "Playfair Display SC", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #252525;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 9.4rem;
 }
 
 /* footer */
