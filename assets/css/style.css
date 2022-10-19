@@ -109,22 +109,6 @@ hr {
     }
 }
 
-/* @media (min-width: 500px) {
-    #my-plants {
-        display: block;
-        flex: column;
-    }
-    .title-left, .title-right {
-        width: 100%;
-    }
-    .img-left, .img-right {
-        width: 100%;
-    }
-    .text-right, .text-left {
-        width: 100%;
-    }
-    
-} */
 
 
 /* featured plants */
@@ -144,13 +128,11 @@ hr {
     margin: 0;
 }
 
-.card-left {
-    border: rgba(8, 60, 8, 0.6) solid .3rem;
+.card {
+    display: flex;
 }
 
 .title-left {
-    display: flex;
-    justify-content: flex-start;
     padding-left: 1.3rem;
     font-size: 110%;
 }
@@ -164,17 +146,21 @@ hr {
     color: #252525;
 }
 
-.img-left {
-    display: flex;
-    align-items: center;
+.card-img {
     padding: 1.3rem;
+    max-width: 50%;
 }
 
-.card-right {
-    border: rgba(8, 60, 8, 0.6) solid .3rem;
+.card-img img {
+    max-width: 100%;
+    border-radius: .7rem;
 }
 
-.text-right {
+.card-right .card-img {
+    order: 2;
+}
+
+.card-text {
     text-align: center;
     height: auto;
     width: 100%;
@@ -206,6 +192,16 @@ hr {
     border: 2px solid #98f598;
 }
 
+@media (max-width: 500px) {
+    .card {
+        display: block;
+    }
+    .card-img {
+        max-width: 100%;
+    } 
+    
+}
+
 /* care station */
 
 #monstera-care {
@@ -216,12 +212,12 @@ hr {
 }
 
 .care-hr {
-    padding-top: 1.5rem;
     max-width: 700px;
     display: flex;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 1.5rem;
 }
 
 .care-image {
@@ -246,7 +242,6 @@ hr {
 p {
     margin-top: 20px;
     text-align: center;
-    width: 50%;
     font-size: 120%;
 }
 
