@@ -109,20 +109,23 @@ And I have run my CSS through
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
   </details>
 
+A bug (or interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read och messes with layout or anything else. It just does not look as intended.
+<details><summary>Intended</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
+  </details>
+
 ### Unfixed Bugs
 
-- A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed: 
+A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed: 
 <details><summary>Image</summary>
-  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug.png">
   </details>
   <details><summary>Image</summary>
-  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug1.png">
   </details>
+It was as if DevTools was still open and set to a certain device screen size even after it had been closed. If I went to another tab and then returened to my website, the layout had fixed itself, always. I don't understand it and I don't know what to do about it. I will look into it in the future. 
 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
