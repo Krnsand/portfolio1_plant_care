@@ -89,14 +89,25 @@ __The Success page__
 I have tested my code through out the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
 
 - The W3C Markup Validation Service 
-<details><summary>Home</summary>
-<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/index_check.png">
-</details>
+  <details><summary>Home</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/index_check.png">
+  </details>
+  <details><summary>Care Station</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/carestation_check.png">
+  </details>
+  <details><summary>Newsletter</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/newsletter_check.png">
+  </details>
+  <details><summary>Success</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/success_check.png">
+  </details>
 
 And I have run my CSS through 
 
 - The W3C CSS Validation Service
-  - No errors to report
+  <details><summary>CSS</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
+  </details>
 
 
 
