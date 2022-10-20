@@ -55,10 +55,14 @@ In this section, you should go over the different parts of your project, and des
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
+__The Success page__
+
+- The user will arrive at this page if they sign up to the newsletter, after filling out all the required fields. It it good user experience when they get a result after filling out a form and clicking a button. 
+
 ### Features Left to Implement
 
 - I would like to add more plants in the future as well as video tutourials on different plant related things.
-- I would like to go more in depth on some parts of the care as some details require more work. 
+- I would like to go more in depth on some parts of the care as some details require more work and could use with more detailed pictures.
 
 ## Testing 
 
