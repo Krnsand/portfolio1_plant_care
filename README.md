@@ -2,7 +2,7 @@
 
 Plant Care is a website that is intended to help people take care of their plants in a what that is easy and accessable to everyone. With pictures and informative text I want people to learn from my mistakes and become more comfortable in decorating a space with their beautifu plants. 
 
-![Responsive Mockup](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Am-I-responsive.png)
+![Responsive Mockup](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/am_i_responsiv.png)
 
 [View live project here](https://krnsand.github.io/portfolio1_plant_care/index.html)
 
@@ -19,47 +19,47 @@ My website is for anyone wanting to learn more about how to care for their plant
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Newletter sign up page and is identical on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Plant-care-nav.png)
+![Nav Bar](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/plant_care_nav.png)
 
 - __The Home page__
 
   - The home page includes a photograph relevant to the webpage with text on the side to make it clear to the user what page of the site they are on.  
   - This section introduces the user to what types of plants they will be able to read about on this website.
 
-![Home Page](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Plant-care-header.png)
+![Home Page](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/plant_care_header.png)
 
 - __Featured Plants Section__
 
   - The featured plants section will allow the user to see images of the types of plants that will be covered on this website. 
   - The user will get a quick overview of the certain types of plants as well as clickable links on the images to take them to their specific care section on another page.
 
-![Featured Plants](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Featured-plants.png)
+![Featured Plants](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/featured_plants.png)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Plants Care. The links will open to a new tab to allow easy navigation for the user. It is featured on all three pages.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Footer.png)
+![Footer](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/footer.png)
 
 - __Care Station__
 
   - The care station will show the user the differents plants again with images in a clean and easy to read layout. 
   - This section is valuable to the user as it is here they will actually get to learn what type of care the specific plants require to thrive the most. 
 
-![Care Station](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Care-station.png)
+![Care Station](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/care_station.png)
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to the Newsletter the website offers in order to get regular tips and tricks regarding their plants as well as inspiration for what to do with their plants. For example, how to decorate a room with plants of what type of plants can work well in a darker corner of the room. The user will be able to choose if they want a newsletter to their inbox once a week or once a month. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Newsletter.png)
+![Sign Up](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/newsletter.png)
 
 __The Success page__
 
 - The user will arrive at this page if they sign up to the newsletter, after filling out all the required fields. It it good user experience when they get a result after filling out a form and clicking a button.
 
-![Sign Up](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Success.png)
+![Sign Up](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/success.png)
 
 ### Features Left to Implement
 
