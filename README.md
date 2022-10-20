@@ -89,7 +89,9 @@ __The Success page__
 I have tested my code through out the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
 
 - The W3C Markup Validation Service 
-  - No errors to report
+  <details><summary>Home</summary>
+<img src="readme_images/index_check.png">
+</details>
 
 And I have run my CSS through 
 
