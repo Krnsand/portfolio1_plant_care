@@ -89,6 +89,7 @@ __The Success page__
 I have tested my code through out the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
 
 - The W3C Markup Validation Service 
+
   <details><summary>Home</summary>
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/index_check.png">
   </details>
@@ -105,43 +106,33 @@ I have tested my code through out the project as I wanted to check regularly tha
 And I have run my CSS through 
 
 - The W3C CSS Validation Service
+
   <details><summary>CSS</summary>
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
   </details>
 
-A bug (or interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read och messes with layout or anything else. It just does not look as intended.
+A bug (or an interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read or messes with the layout or anything else. It just doesn't look as intended.
+
 <details><summary>Intended</summary>
-  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
-  </details>
+<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/intended.jpg">
+</details>
+<details><summary>Intended</summary>
+<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/dark_mode.jpg">
+</details>
+
 
 ### Unfixed Bugs
 
-A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed: 
+A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed:
+
 <details><summary>Image</summary>
-  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug.png">
-  </details>
-  <details><summary>Image</summary>
-  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug1.png">
-  </details>
+<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug.png">
+</details>
+<details><summary>Image</summary>
+<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug1.png">
+</details>
+
 It was as if DevTools was still open and set to a certain device screen size even after it had been closed. If I went to another tab and then returened to my website, the layout had fixed itself, always. I don't understand it and I don't know what to do about it. I will look into it in the future. 
-
-
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-
-### Validator Testing 
-
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
 
 ## Deployment
 
