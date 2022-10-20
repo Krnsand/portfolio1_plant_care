@@ -32,8 +32,11 @@ h2 {
     text-decoration: none;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 373px) {
     #logo {
+        text-align: center;
+    }
+    .logo-link {
         text-align: center;
     }
 }
@@ -75,10 +78,6 @@ hr {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
-}
-
-.hidden {
-    visibility: hidden;
 }
 
 #box {
