@@ -4,13 +4,13 @@ Plant Care is a website that is intended to help people take care of their plant
 
 ![Responsive Mockup](https://github.com/Krnsand/portfolio1_plant_care/blob/main/assets/readme_images/Am-I-responsive.png)
 
+[View live project here](https://krnsand.github.io/portfolio1_plant_care/index.html)
+
 ## Features 
 
 I wanted my website to be easy to navigate with clear and visible features that would make the user experience into a good one to encourage people to return to it. 
 
 My website is for anyone wanting to learn more about how to care for their plants, wether they are beginners just trying to keep their plants alive or more seasoned hobbyists who are looking for more specific tips regarding a certain typ of plant.
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -85,6 +85,19 @@ __The Success page__
   - Samsung Galaxy A51/71
   - Nest Hub
   - Nest Hub Max
+
+I have tested my code through out the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
+
+- The W3C Markup Validation Service 
+  - No errors to report
+
+And I have run my CSS through 
+
+- The W3C CSS Validation Service
+  - No errors to report
+
+
+
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
