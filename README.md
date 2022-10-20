@@ -91,7 +91,7 @@ I have tested my code through out the project as I wanted to check regularly tha
 - The W3C Markup Validation Service 
   <details><summary>Home</summary>
 <img src="readme_images/index_check.png">
-</details>
+  </details>
 
 And I have run my CSS through 
 
