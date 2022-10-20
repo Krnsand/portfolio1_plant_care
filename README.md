@@ -6,7 +6,9 @@ Plant Care is a website that is intended to help people take care of their plant
 
 ## Features 
 
-I wanted my website to be easy to navigate with clear and visible features that would make the user experience into a good one to encourage people to return to it.  
+I wanted my website to be easy to navigate with clear and visible features that would make the user experience into a good one to encourage people to return to it. 
+
+My website is for anyone wanting to learn more about how to care for their plants, wether they are beginners just trying to keep their plants alive or more seasoned hobbyists who are looking for more specific tips regarding a certain typ of plant.
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 

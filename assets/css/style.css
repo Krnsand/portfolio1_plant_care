@@ -28,6 +28,12 @@ h2 {
     margin-left: 30px;
 }
 
+/* @media (max-width: 320px) {
+    #logo {
+        text-align: center;
+    }
+} */
+
 /* navigation links */
 
 #menu {
@@ -132,6 +138,7 @@ hr {
     border-radius: .7rem;
     color: #000000;
     margin: .5rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .card-img {
@@ -152,6 +159,7 @@ hr {
     text-align: center;
     height: auto;
     width: 100%;
+    padding-top: 5rem;
 }
 
 .card-text h3 {
@@ -175,6 +183,9 @@ hr {
     .card-img {
         max-width: 100%;
     } 
+    .card-text {
+        padding-top: .5rem;
+    }
 }
 
 /* care station */
@@ -182,7 +193,6 @@ hr {
 #monstera-care {
     font-size: 180%;
     text-align: center;
-    margin-top: 20px;
     text-decoration: underline;
 }
 
@@ -337,11 +347,12 @@ p {
 /* footer */
 
 footer {
-    height: 150px;
+    height: 8rem;
 }
 
 .social-networks {
     text-align: center;
+    padding-top: 5%;
 }
 
 .social-networks>li {
@@ -351,8 +362,12 @@ footer {
 .social-networks i {
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 2%;
     color: #3a3a3a;
 }
 
-
+/* @media (max-width: 500px) {
+    .social-networks i {
+        padding-top: 4%;
+    }
+} */
