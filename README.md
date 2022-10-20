@@ -68,6 +68,24 @@ __The Success page__
 
 ## Testing 
 
+- I have successfully tested my website on Google Chrome, Firefox, Microsoft Edge, Safari and Samsung Internet Browser.
+- I have used Google Chrome Developer Tools through out the creation of my project to test layouts and responsivness as I progressed.
+- I have used Google Chrome Developer Tools to test on following devices:
+ - iPhone SE
+ - iPhone XR
+ - iPhone 12 PRO
+ - Pixel 5
+ - Samsung Galaxy S8+
+ - Samsung Galaxy S20 Ultra
+ - iPad Air
+ - iPad Mini
+ - Surface Pro 7
+ - Surface Duo
+ - Galaxy Fold
+ - Samsung Galaxy A51/71
+ - Nest Hub
+ - Nest Hub Max
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
