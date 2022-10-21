@@ -72,25 +72,7 @@ __The Success page__
 
 ## Testing 
 
-- I have successfully tested my website on Google Chrome, Firefox, Microsoft Edge, Safari and Samsung Internet Browser.
-- I have used Google Chrome Developer Tools through out the creation of my project to test layouts and responsivness as I progressed.
-- I have used Google Chrome Developer Tools to test on following devices:
-  - iPhone SE
-  - iPhone XR
-  - iPhone 12 PRO
-  - Pixel 5
-  - Samsung Galaxy S8+
-  - Samsung Galaxy S20 Ultra
-  - iPad Air
-  - iPad Mini
-  - Surface Pro 7
-  - Surface Duo
-  - Galaxy Fold
-  - Samsung Galaxy A51/71
-  - Nest Hub
-  - Nest Hub Max
-
-I have tested my code through out the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
+I have tested my code throughout the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
 
 - The W3C Markup Validation Service 
 
@@ -115,20 +97,38 @@ And I have run my CSS through
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
   </details>
 
+- I have successfully tested my website on Google Chrome, Firefox, Microsoft Edge, Safari and Samsung Internet Browser.
+- I have used Google Chrome Developer Tools through out the creation of my project to test layouts and responsivness as I progressed.
+- I have used Google Chrome Developer Tools to test on following devices:
+  - iPhone SE
+  - iPhone XR
+  - iPhone 12 PRO
+  - Pixel 5
+  - Samsung Galaxy S8+
+  - Samsung Galaxy S20 Ultra
+  - iPad Air
+  - iPad Mini
+  - Surface Pro 7
+  - Surface Duo
+  - Galaxy Fold
+  - Samsung Galaxy A51/71
+  - Nest Hub
+  - Nest Hub Max
+
 ### Unfixed Bugs
 
-A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed:
+- A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed:
 
-<details><summary>Image</summary>
+<details><summary>Bug image</summary>
 <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug.png">
 </details>
-<details><summary>Image</summary>
+<details><summary>Bug image</summary>
 <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug1.png">
 </details>
 
 It was as if DevTools was still open and set to a certain device screen size even after it had been closed. If I went to another tab and then returened to my website, the layout had fixed itself, always. I don't understand it and I don't know what to do about it. I will look into it in the future. 
 
-Another bug (or an interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read or messes with the layout or anything else. It just doesn't look as intended. I will look into why it does this in the future, but for now I am enjoying the special effects.
+- Another bug (or an interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read or messes with the layout or anything else. It just doesn't look as intended. I will look into why it does this in the future, but for now I am enjoying the special effects.
 
 <details><summary>Intended</summary>
 <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/intended.jpg">
