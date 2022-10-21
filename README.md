@@ -1,10 +1,10 @@
 # Plant Care
 
-Plant Care is a website that is intended to help people take care of their plants in a what that is easy and accessable to everyone. With pictures and informative text I want people to learn from my mistakes and become more comfortable in decorating a space with their beautifu plants. 
+Plant Care is a website that is intended to help people take care of their plants in a way that is easy and accessible to everyone. With pictures and informative text I want people to learn from my mistakes and become more comfortable in decorating a space with their beautiful plants. 
 
 ![Responsive Mockup](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/am_i_responsiv.png)
 
-[Click to view live project](https://krnsand.github.io/portfolio1_plant_care/index.html)
+[Click to View Live Website](https://krnsand.github.io/portfolio1_plant_care/index.html)
 
 --- 
 
@@ -12,13 +12,13 @@ Plant Care is a website that is intended to help people take care of their plant
 
 I wanted my website to be easy to navigate with clear and visible features that would make the user experience into a good one to encourage people to return to it. 
 
-My website is for anyone wanting to learn more about how to care for their plants, wether they are beginners just trying to keep their plants alive or more seasoned hobbyists who are looking for more specific tips regarding a certain typ of plant.
+My website is for anyone wanting to learn more about how to care for their plants, wether they are beginners just trying to keep their plants alive, or more seasoned hobbyists who are looking for more specific tips regarding a certain type of plant.
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Newletter sign up page and is identical on each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home, Care Station and Newletter sign up page and is identical on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/plant_care_nav.png)
@@ -39,7 +39,7 @@ My website is for anyone wanting to learn more about how to care for their plant
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Plants Care. The links will open to a new tab to allow easy navigation for the user. It is featured on all three pages.
+  - The footer section includes links to the relevant social media sites for Plants Care. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/footer.png)
@@ -53,20 +53,20 @@ My website is for anyone wanting to learn more about how to care for their plant
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to the Newsletter the website offers in order to get regular tips and tricks regarding their plants as well as inspiration for what to do with their plants. For example, how to decorate a room with plants of what type of plants can work well in a darker corner of the room. The user will be able to choose if they want a newsletter to their inbox once a week or once a month. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to the Newsletter the website offers in order to get regular tips and tricks regarding their plants as well as inspiration for what to do with their plants. For example, how to decorate a room with plants or what type of plants can work well in a darker corner of the room. The user will be able to choose if they want a newsletter to their inbox once a week or once a month. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/newsletter.png)
 
 __The Success page__
 
-- The user will arrive at this page if they sign up to the newsletter, after filling out all the required fields. It it good user experience when they get a result after filling out a form and clicking a button.
+- The user will arrive at this page if they sign up to the newsletter, after filling out all the required fields. It is good user experience when they get a result after filling out a form and clicking a button.
 
 ![Sign Up](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/success.png)
 
 ### Features Left to Implement
 
 - I would like to add more plants in the future as well as video tutourials on different plant related things.
-- I would like to go more in depth on some parts of the care as some details require more work and could use with more detailed pictures.
+- I would like to go more in depth on some parts of the care as some details require more work and could use more detailed pictures.
 
 ---
 
@@ -115,6 +115,21 @@ And I have run my CSS through
   - Nest Hub
   - Nest Hub Max
 
+I tested my deployed website with Lighthouse and got the following results on each page
+<details><summary>Home</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/index_lighthouse.png">
+  </details>
+  <details><summary>Care Station</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/carestation_lighthouse.png">
+  </details>
+  <details><summary>Newsletter</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/newsletter_lighthouse.png">
+  </details>
+  <details><summary>Success</summary>
+  <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/success_lighthouse.png">
+  </details>
+
+
 ### Unfixed Bugs
 
 - A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed:
@@ -157,8 +172,7 @@ It was as if DevTools was still open and set to a certain device screen size eve
    - the footer
    - the sign up form
 
-- Most of the infomation on this page has been gathered by me over the years as a plant enthusiast from trial and (many) errors as well as from various facebook groups
-  I used 
+- Most of the infomation on this page has been gathered by me over the years as a plant enthusiast from trial and (many) errors as well as from various facebook groups. I used 
 
     - [Greenery:Unlimited](https://greeneryunlimited.co/blogs/plant-care/monstera-deliciosa-care) 
     - [Potted Pixie](https://pottedpixie.com/monstera-albo-care/)
