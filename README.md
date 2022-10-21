@@ -183,6 +183,7 @@ It was as if DevTools was still open and set to a certain device screen-size eve
   to complement my information as well
 
 - I used [Font Awesome](https://fontawesome.com/) for the footer icons as well as the leaf in my sign up form
+- I used [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-create-icon-hover-effect-using-css/) to add more styling to the footer icons. I copied the code to the relevant icons on my page
  
 ### Media
 

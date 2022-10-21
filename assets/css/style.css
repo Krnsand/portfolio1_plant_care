@@ -368,3 +368,27 @@ footer {
     padding: 2%;
     color: #3a3a3a;
 }
+
+.social-networks i:hover {
+    transform: scale(1.5);
+}
+
+.youtube:hover {
+    color: red;
+}
+
+.facebook:hover {
+    color: blue;
+}
+
+.instagram:hover {
+    color: #e11d74;
+}
+
+.github:hover {
+    color: black;
+}
+
+.linkedin:hover {
+    color: #04009a;
+}
