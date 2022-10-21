@@ -199,8 +199,9 @@ It was as if DevTools was still open and set to a certain device screen-size eve
 
 I would like to take the opportunity to thank:
 
+- My mentor André Aquilina for guidance, encouragement and patience, as well as inspiration, tips and tricks throughout the project
+
 - My friend Viktor Hesselbom for introducing me to flex and taking the time to help me with text alignments when I just couldn't manage
 
-- My mentor André Aquilina for guidance, encouragement and patience, as well as inspiration, tips and tricks throughout the project
 
 ---
