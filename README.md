@@ -184,6 +184,7 @@ It was as if DevTools was still open and set to a certain device screen-size eve
 
 - I used [Font Awesome](https://fontawesome.com/) for the footer icons as well as the leaf in my sign up form
 - I used [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-create-icon-hover-effect-using-css/) to add more styling to the footer icons. I copied the code to the relevant icons on my page
+- I used [Flexbox Froggy](https://flexboxfroggy.com/) to better understand flex
  
 ### Media
 
@@ -191,7 +192,6 @@ It was as if DevTools was still open and set to a certain device screen-size eve
 - I used [Adobe Express](https://www.adobe.com/express/feature/image/resize) to resize my own images to better fit the website
 - I used [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp) to learn about box shadowing
 - I used [Google Fonts](https://fonts.google.com/) and [Font Pair](https://www.fontpair.co/all) for my fonts
-- I used [Flexbox Froggy](https://flexboxfroggy.com/) to better understand flex
 
 ---
 
