@@ -2,7 +2,7 @@
 
 Plant Care is a website that is intended to help people take care of their plants in a way that is easy and accessible to everyone. With pictures and informative text I want people to learn from my mistakes and become more comfortable in decorating a space with their beautiful plants. 
 
-![Responsive Mockup](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/am_i_responsiv.png)
+![Responsive Mockup](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/am_i_responsive.png)
 
 [Click to View Live Website](https://krnsand.github.io/portfolio1_plant_care/index.html)
 
