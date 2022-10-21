@@ -158,7 +158,7 @@ It was as if DevTools was still open and set to a certain device screen size eve
    - the sign up form
 
 - Most of the infomation on this page has been gathered by me over the years as a plant enthusiast from trial and (many) errors as well as from various facebook groups
-- I used 
+  I used 
 
     - [Greenery:Unlimited](https://greeneryunlimited.co/blogs/plant-care/monstera-deliciosa-care) 
     - [Potted Pixie](https://pottedpixie.com/monstera-albo-care/)
