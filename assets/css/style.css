@@ -373,6 +373,8 @@ footer {
     transform: scale(1.5);
 }
 
+/* the hover code below is copied from Geeks for Geeks, link in README.md */
+
 .youtube:hover {
     color: red;
 }
