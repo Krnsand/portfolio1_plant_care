@@ -141,10 +141,7 @@ This section should describe the process you went through to deploy the project 
   - In the Github repository of the project find and click the <em>settings</em> symbol  
   - On the left hand side there is a menu, find and click <em>Pages</em>
   - Choose the <em>main</em> branch from the <em>none</em> drop down menu and click save
-  - The link to the website needs a couple of minutes to load, then refresh the page and the link will show up at the top of the <em>Pages</em> section, "Your site is live at https://krnsand.github.io/portfolio1_plant_care/" .
-
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
+  - The link to the website needs a couple of minutes to load, then refresh the page and the link will show up at the top of the <em>Pages</em> section with the text "Your site is live at https://krnsand.github.io/portfolio1_plant_care/" .
 
 ## Credits 
 
@@ -154,33 +151,28 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- I used code snippets from the Love Running project on 
+   - the footer
+   - the sign up form
+
+- Most of the infomation on this page has been gathered by me over the years as a plant enthusiast from trial and (many) errors as well as from various facebook groups
+- I used 
+
+    - [Greenery:Unlimited](https://greeneryunlimited.co/blogs/plant-care/monstera-deliciosa-care) 
+    - [Potted Pixie](https://pottedpixie.com/monstera-albo-care/)
+    - [The Spruce](https://www.thespruce.com/grow-coleus-plants-indoors-1902746)
+
+  to complement my information as well
+- I used [Font Awesome](https://fontawesome.com/) for the footer icons as well as the leaf in my sign up form
+
+- I want to thank my friend Viktor Hesselbom for introducing me to flex and helping me with text alignments when I just couldn't manage
+
+- I want to thank my mentor André Aquilina for guidance and patience, as well as inspiration, tips and tricks 
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- I used [Pexels](https://www.pexels.com/sv-se/) and [Pixabay](https://pixabay.com/) for most of my images
+- I used [Adobe Express](https://www.adobe.com/express/feature/image/resize) to resize my own images to better fit the website
+- I used [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp) to learn about box shadowing
+- I used [Google Fonts](https://fonts.google.com/) and [Font Pair](https://www.fontpair.co/all) for my fonts
 
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
-
-[def]: https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png
