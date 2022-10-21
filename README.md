@@ -6,6 +6,8 @@ Plant Care is a website that is intended to help people take care of their plant
 
 [Click to view live project](https://krnsand.github.io/portfolio1_plant_care/index.html)
 
+--- 
+
 ## Features 
 
 I wanted my website to be easy to navigate with clear and visible features that would make the user experience into a good one to encourage people to return to it. 
@@ -65,6 +67,8 @@ __The Success page__
 
 - I would like to add more plants in the future as well as video tutourials on different plant related things.
 - I would like to go more in depth on some parts of the care as some details require more work and could use with more detailed pictures.
+
+---
 
 ## Testing 
 
@@ -133,9 +137,9 @@ Another bug (or an interesting special feature perhaps) I found was that some of
 <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/dark_mode.jpg">
 </details>
 
-## Deployment
+---
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+## Deployment
 
 - My website was deployed to GitHub pages. The following steps were used: 
   - In the Github repository of the project find and click the <em>settings</em> symbol  
@@ -143,11 +147,9 @@ This section should describe the process you went through to deploy the project 
   - Choose the <em>main</em> branch from the <em>none</em> drop down menu and click save
   - The link to the website needs a couple of minutes to load, then refresh the page and the link will show up at the top of the <em>Pages</em> section with the text "Your site is live at https://krnsand.github.io/portfolio1_plant_care/" .
 
+---
+
 ## Credits 
-
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ### Content 
 
@@ -164,11 +166,7 @@ You can break the credits section up into Content and Media, depending on what y
 
   to complement my information as well
 - I used [Font Awesome](https://fontawesome.com/) for the footer icons as well as the leaf in my sign up form
-
-- I want to thank my friend Viktor Hesselbom for introducing me to flex and helping me with text alignments when I just couldn't manage
-
-- I want to thank my mentor André Aquilina for guidance and patience, as well as inspiration, tips and tricks 
-
+ 
 ### Media
 
 - I used [Pexels](https://www.pexels.com/sv-se/) and [Pixabay](https://pixabay.com/) for most of my images
@@ -176,3 +174,14 @@ You can break the credits section up into Content and Media, depending on what y
 - I used [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp) to learn about box shadowing
 - I used [Google Fonts](https://fonts.google.com/) and [Font Pair](https://www.fontpair.co/all) for my fonts
 
+---
+
+## Acknowledgements
+
+I would like to take the opportunity to thank:
+
+- My friend Viktor Hesselbom for introducing me to flex and helping me with text alignments when I just couldn't manage
+
+- My mentor André Aquilina for guidance, encouragement and patience, as well as inspiration, tips and tricks throughout the project
+
+---
