@@ -72,9 +72,9 @@ __The Success page__
 
 ## Testing 
 
-I have tested my code throughout the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through
+I have tested my code throughout the project as I wanted to check regularly that I was not making mistakes. I have run my HTML through:
 
-- The W3C Markup Validation Service 
+- The W3C Markup Validation Service: 
 
   <details><summary>Home</summary>
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/index_check.png">
@@ -91,7 +91,7 @@ I have tested my code throughout the project as I wanted to check regularly that
 
 And I have run my CSS through 
 
-- The W3C CSS Validation Service
+- The W3C CSS Validation Service:
 
   <details><summary>CSS</summary>
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
@@ -115,7 +115,8 @@ And I have run my CSS through
   - Nest Hub
   - Nest Hub Max
 
-I tested my deployed website with Lighthouse and got the following results on each page
+I tested my deployed website with Lighthouse and got the following results on each page:
+
 <details><summary>Home</summary>
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/index_lighthouse.png">
   </details>
@@ -129,6 +130,7 @@ I tested my deployed website with Lighthouse and got the following results on ea
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/success_lighthouse.png">
   </details>
 
+I believe my performance score was effected by the sizes of my images. I will look into how to better the performance score in the future.
 
 ### Unfixed Bugs
 
@@ -141,7 +143,7 @@ I tested my deployed website with Lighthouse and got the following results on ea
 <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/bug1.png">
 </details>
 
-It was as if DevTools was still open and set to a certain device screen size even after it had been closed. If I went to another tab and then returened to my website, the layout had fixed itself, always. I don't understand it and I don't know what to do about it. I will look into it in the future. 
+It was as if DevTools was still open and set to a certain device screen-size even after it had been closed. If I went to another tab and then returned to my website, the layout had fixed itself, always. I don't understand it and I don't know what to do about it. I will look into it in the future. 
 
 - Another bug (or an interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read or messes with the layout or anything else. It just doesn't look as intended. I will look into why it does this in the future, but for now I am enjoying the special effects.
 
@@ -179,6 +181,7 @@ It was as if DevTools was still open and set to a certain device screen size eve
     - [The Spruce](https://www.thespruce.com/grow-coleus-plants-indoors-1902746)
 
   to complement my information as well
+
 - I used [Font Awesome](https://fontawesome.com/) for the footer icons as well as the leaf in my sign up form
  
 ### Media
@@ -187,6 +190,7 @@ It was as if DevTools was still open and set to a certain device screen size eve
 - I used [Adobe Express](https://www.adobe.com/express/feature/image/resize) to resize my own images to better fit the website
 - I used [W3Schools](https://www.w3schools.com/css/css3_shadows_box.asp) to learn about box shadowing
 - I used [Google Fonts](https://fonts.google.com/) and [Font Pair](https://www.fontpair.co/all) for my fonts
+- I used [Flexbox Froggy](https://flexboxfroggy.com/) to better understand flex
 
 ---
 
@@ -194,7 +198,7 @@ It was as if DevTools was still open and set to a certain device screen size eve
 
 I would like to take the opportunity to thank:
 
-- My friend Viktor Hesselbom for introducing me to flex and helping me with text alignments when I just couldn't manage
+- My friend Viktor Hesselbom for introducing me to flex and taking the time to help me with text alignments when I just couldn't manage
 
 - My mentor André Aquilina for guidance, encouragement and patience, as well as inspiration, tips and tricks throughout the project
 
