@@ -111,16 +111,6 @@ And I have run my CSS through
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/style.css_check.png">
   </details>
 
-A bug (or an interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read or messes with the layout or anything else. It just doesn't look as intended.
-
-<details><summary>Intended</summary>
-<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/intended.jpg">
-</details>
-<details><summary>Intended</summary>
-<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/dark_mode.jpg">
-</details>
-
-
 ### Unfixed Bugs
 
 A bug I noticed was that sometimes, after having had Google Chrome Developer Tools open for a while, the website looked like this when developer Tools was closed:
@@ -134,14 +124,24 @@ A bug I noticed was that sometimes, after having had Google Chrome Developer Too
 
 It was as if DevTools was still open and set to a certain device screen size even after it had been closed. If I went to another tab and then returened to my website, the layout had fixed itself, always. I don't understand it and I don't know what to do about it. I will look into it in the future. 
 
+Another bug (or an interesting special feature perhaps) I found was that some of my style to the Home page did not show up as intended on my own phone. The reason being I have it on "dark mode". Personally I don't mind this "bug" as it doesn't make anything hard to read or messes with the layout or anything else. It just doesn't look as intended. I will look into why it does this in the future, but for now I am enjoying the special effects.
+
+<details><summary>Intended</summary>
+<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/intended.jpg">
+</details>
+<details><summary>Dark Mode</summary>
+<img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/dark_mode.jpg">
+</details>
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- My website was deployed to GitHub pages. The following steps were used: 
+  - In the Github repository of the project find and click the <em>settings</em> symbol  
+  - On the left hand side there is a menu, find and click <em>Pages</em>
+  - Choose the <em>main</em> branch from the <em>none</em> drop down menu and click save
+  - The link to the website needs a couple of minutes to load, then refresh the page and the link will show up at the top of the <em>Pages</em> section, "Your site is live at https://krnsand.github.io/portfolio1_plant_care/" .
 
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
 
