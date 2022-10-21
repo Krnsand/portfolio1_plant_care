@@ -18,7 +18,7 @@ My website is for anyone wanting to learn more about how to care for their plant
 
 - __Navigation Bar__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home, Care Station and Newletter sign up page and is identical on each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo, Home, Care Station and Newsletter sign up page and is identical on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/plant_care_nav.png)
@@ -40,7 +40,7 @@ My website is for anyone wanting to learn more about how to care for their plant
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Plants Care. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/footer.png)
 
@@ -89,7 +89,7 @@ I have tested my code throughout the project as I wanted to check regularly that
   <img src="https://github.com/Krnsand/portfolio1_plant_care/blob/main/readme_images/success_check.png">
   </details>
 
-And I have run my CSS through 
+And I have run my CSS through: 
 
 - The W3C CSS Validation Service:
 
@@ -162,7 +162,7 @@ It was as if DevTools was still open and set to a certain device screen-size eve
   - In the Github repository of the project find and click the <em>settings</em> symbol  
   - On the left hand side there is a menu, find and click <em>Pages</em>
   - Choose the <em>main</em> branch from the <em>none</em> drop down menu and click save
-  - The link to the website needs a couple of minutes to load, then refresh the page and the link will show up at the top of the <em>Pages</em> section with the text "Your site is live at https://krnsand.github.io/portfolio1_plant_care/" .
+  - The link to the website needs a couple of minutes to load, then refresh the page and the link will show up at the top of the <em>Pages</em> section with the text "Your site is live at https://krnsand.github.io/portfolio1_plant_care/" 
 
 ---
 
@@ -170,11 +170,11 @@ It was as if DevTools was still open and set to a certain device screen-size eve
 
 ### Content 
 
-- I used code snippets from the Love Running project on 
+- I used code snippets from the Love Running project on: 
    - the footer
    - the sign up form
 
-- Most of the infomation on this page has been gathered by me over the years as a plant enthusiast from trial and (many) errors as well as from various facebook groups. I used 
+- Most of the infomation on this page has been gathered by me over the years as a plant enthusiast from trial and (many) errors as well as from various facebook groups. I used: 
 
     - [Greenery:Unlimited](https://greeneryunlimited.co/blogs/plant-care/monstera-deliciosa-care) 
     - [Potted Pixie](https://pottedpixie.com/monstera-albo-care/)
